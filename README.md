@@ -57,7 +57,7 @@ Requires **Python 3.8+** — no external dependencies.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/my_cava_dotfiles.git
+git clone https://github.com/programmersd21/my_cava_dotfiles.git
 cd my_cava_dotfiles
 
 # Install (interactive — backs up existing config automatically)
